@@ -1,7 +1,7 @@
 
 public class Notendurchschnitt {
 	public static void main (String [] args) {
-		int deutschnote = 1;
+		int deutschnote = 8;
 		int englishnote = 1;
 		int fremdsprachennote = 1;
 		int mathenote = 1;
